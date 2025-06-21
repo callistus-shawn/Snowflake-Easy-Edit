@@ -2,7 +2,7 @@
 This is a web-based interactive tool built using Streamlit and AgGrid, allowing users to connect to a Snowflake database, view tables, edit data inline, and apply updates directly to the database.
 
 
-<img src="Screenshot 2025-06-21 085904.png" heigth='800' width="800" />
+<img src="images/Screenshot 2025-06-21 085904.png" heigth='800' width="800" />
 
 
 ### 🗂️ Project Files Description
